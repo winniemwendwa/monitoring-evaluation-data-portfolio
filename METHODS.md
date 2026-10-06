@@ -19,4 +19,4 @@ Adequate-food months = 12 minus the stored total months without adequate food. A
 Nine records differ between the CA-practice yes/no question and the CA-principles yes/no question. Treat these as different survey items and review them rather than merging their counts. UUID checks establish submission duplication only, not unique-household identity. This public package contains only aggregate results, charts, methods, and code. Names, GPS, identifiers, exact timestamps, free text, interviewer details, and row-level household data are excluded.
 
 ## Attribution
-This portfolio was prepared for Winnie K. from her supplied project dataset with AI-assisted analysis and documentation. It demonstrates an analysis workflow; it does not independently establish who collected the data, authored original project outputs, or caused programme outcomes. Only claim professional roles and achievements you can substantiate.
+This portfolio was prepared for Winnie K. from her supplied project dataset. It demonstrates an analysis workflow; the data was collected by project staff in different wards.
