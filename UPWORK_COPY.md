@@ -1,4 +1,4 @@
-# Upwork portfolio entry
+# Portfolio entry
 
 **Project title:** Conservation Agriculture: Excel Dashboard & Survey Analysis
 
@@ -9,6 +9,5 @@ Converted a 219-record conservation agriculture survey into an Excel results wor
 
 **Skills:** Microsoft Excel; Data Analysis; Data Visualization; Data Cleaning; Report Writing.
 
-**Suggested attachments:** Portfolio.pdf first; Preview.png as cover; Results.xlsx as the spreadsheet sample.
 
-**Before publishing:** Confirm that the stated role reflects your actual contribution. Share only outputs you are permitted to disclose. The original household dataset is excluded from this package.
+
